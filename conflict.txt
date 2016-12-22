@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+"local edits" 
+"local edit 2" 
+=======
+remote edit 0
+>>>>>>> sandbox/master
